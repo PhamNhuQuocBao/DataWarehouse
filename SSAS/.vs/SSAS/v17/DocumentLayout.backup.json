@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\ACCIDENT DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|solutionrelative:ACCIDENT DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Driver.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|solutionrelative:Dim Driver.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Vehicle.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|solutionrelative:Dim Vehicle.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Type Impact.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|solutionrelative:Dim Type Impact.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Road Feature.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|solutionrelative:Dim Road Feature.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Twilight.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|solutionrelative:Dim Twilight.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Weather.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|solutionrelative:Dim Weather.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{65D067A2-25FB-4CB2-81DA-7C61E5D773B6}|SSAS.dwproj|solutionrelative:Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ACCIDENT DW.cube [Design]",
+              "DocumentMoniker": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\ACCIDENT DW.cube",
+              "RelativeDocumentMoniker": "ACCIDENT DW.cube",
+              "ToolTip": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\ACCIDENT DW.cube [Design]",
+              "RelativeToolTip": "ACCIDENT DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T03:35:54.745Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Driver.dim [Design]",
+              "DocumentMoniker": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Driver.dim",
+              "RelativeDocumentMoniker": "Dim Driver.dim",
+              "ToolTip": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Driver.dim [Design]",
+              "RelativeToolTip": "Dim Driver.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T03:34:29.232Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Vehicle.dim [Design]",
+              "DocumentMoniker": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Vehicle.dim",
+              "RelativeDocumentMoniker": "Dim Vehicle.dim",
+              "ToolTip": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Vehicle.dim [Design]",
+              "RelativeToolTip": "Dim Vehicle.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T03:34:15.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Type Impact.dim [Design]",
+              "DocumentMoniker": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Type Impact.dim",
+              "RelativeDocumentMoniker": "Dim Type Impact.dim",
+              "ToolTip": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Type Impact.dim [Design]",
+              "RelativeToolTip": "Dim Type Impact.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T03:34:01.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T03:33:45.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Road Feature.dim [Design]",
+              "DocumentMoniker": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Road Feature.dim",
+              "RelativeDocumentMoniker": "Dim Road Feature.dim",
+              "ToolTip": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Road Feature.dim [Design]",
+              "RelativeToolTip": "Dim Road Feature.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T03:33:31.278Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Twilight.dim [Design]",
+              "DocumentMoniker": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Twilight.dim",
+              "RelativeDocumentMoniker": "Dim Twilight.dim",
+              "ToolTip": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Twilight.dim [Design]",
+              "RelativeToolTip": "Dim Twilight.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T03:33:16.992Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Weather.dim [Design]",
+              "DocumentMoniker": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Weather.dim",
+              "RelativeDocumentMoniker": "Dim Weather.dim",
+              "ToolTip": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Weather.dim [Design]",
+              "RelativeToolTip": "Dim Weather.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T03:32:55.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dim Location.dim [Design]",
+              "DocumentMoniker": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Location.dim",
+              "RelativeDocumentMoniker": "Dim Location.dim",
+              "ToolTip": "D:\\University\\Year_4\\1\\datawarehouse\\FinalExam\\SSAS\\Dim Location.dim [Design]",
+              "RelativeToolTip": "Dim Location.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T03:32:40.167Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
